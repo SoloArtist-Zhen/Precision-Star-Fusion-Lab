@@ -1,0 +1,7 @@
+{
+  "MEKF_RMSE_deg": 5.877126168126963,
+  "UKF_RMSE_deg": 0.011845689090716678,
+  "MEKF_median_deg": 3.2401903058812622,
+  "UKF_median_deg": 0.010522696921188287,
+  "Events_median_deg": null
+}
